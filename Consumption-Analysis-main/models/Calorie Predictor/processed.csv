@@ -1,0 +1,381 @@
+food_name,protein_g,fat_g,carbs_g,calories
+Chicken Breast,31,3.6,0,165
+Brown Rice,2.6,0.9,23,111
+Broccoli,2.8,0.4,7,34
+Salmon,25,13,0,206
+Banana,1.3,0.4,27,105
+Egg,6,5,0.6,78
+Almonds,21,49,22,579
+Greek Yogurt,10,0.4,3.6,59
+Sweet Potato,2,0.2,20,86
+Avocado,2,15,9,160
+Oatmeal,13,7,66,389
+Peanut Butter,25,50,20,588
+Whole Milk,3.2,3.3,4.8,61
+Cheddar Cheese,25,33,1.3,402
+Tuna,30,1,0,132
+Spinach,2.9,0.4,3.6,23
+Apple,0.3,0.2,14,52
+Pasta,5,0.9,25,131
+Bread,9,3,49,265
+Steak,26,15,0,250
+Turkey Breast,29,1,0,135
+Quinoa,4.4,1.9,21,120
+Kale,2.9,0.9,9,49
+Tilapia,26,3,0,128
+Strawberries,0.7,0.3,7.7,32
+Blueberries,0.7,0.3,14,57
+Orange,0.9,0.1,12,47
+Grapes,0.6,0.2,18,69
+Watermelon,0.6,0.2,8,30
+Pineapple,0.5,0.1,13,50
+Mango,0.8,0.4,15,60
+Carrots,0.9,0.2,10,41
+Cucumber,0.7,0.1,3.6,16
+Tomato,0.9,0.2,3.9,18
+Bell Pepper,1,0.3,6,31
+Mushrooms,3.1,0.3,3.3,22
+Zucchini,1.2,0.3,3.1,17
+Asparagus,2.2,0.2,3.9,20
+Green Beans,1.8,0.2,7,31
+Cauliflower,1.9,0.3,5,25
+Brussels Sprouts,3.4,0.3,9,43
+Peas,5,0.4,14,81
+Corn,3.4,1.5,19,96
+Potato,2,0.1,17,77
+White Rice,2.7,0.3,28,130
+Black Beans,8.9,0.5,23,132
+Chickpeas,8.9,2.6,27,164
+Lentils,9,0.4,20,116
+Kidney Beans,8.7,0.5,22,127
+Tofu,8,4.8,1.9,76
+Cottage Cheese,11,4.3,3.4,98
+Mozzarella,22,22,2.2,280
+Feta Cheese,14,21,4.1,264
+Parmesan,35,26,3.2,431
+Butter,0.9,81,0.1,717
+Olive Oil,0,100,0,884
+Coconut Oil,0,100,0,862
+Honey,0.3,0,82,304
+Maple Syrup,0,0.2,67,260
+White Sugar,0,0,100,387
+Dark Chocolate,8,43,46,598
+Milk Chocolate,7,30,59,535
+Ice Cream,3.5,11,24,207
+Yogurt,3.5,3.3,4.7,59
+Sour Cream,2.4,20,4.6,198
+Cream Cheese,6,34,4,342
+Bacon,37,42,1,541
+Sausage,13,28,1,301
+Ham,18,5,1,145
+Pork Chops,26,14,0,231
+Lamb,25,21,0,294
+Beef Jerky,33,7,11,410
+Hot Dog,10,26,2,290
+Pizza Slice,12,10,33,266
+Burger Patty,26,20,0,290
+French Fries,3.4,15,41,312
+Onion Rings,5,16,39,331
+Nachos,7,26,38,346
+Tacos,9,12,18,226
+Burrito,11,8,38,297
+Sushi Roll,6,1,38,184
+Ramen Noodles,10,7,52,371
+Mac and Cheese,11,12,47,339
+Lasagna,12,8,20,224
+Spaghetti,5,1,31,158
+Garlic Bread,6,10,36,250
+Croissant,8,21,46,406
+Bagel,10,2,56,277
+Donut,4,19,51,452
+Muffin,6,19,55,426
+Pancakes,6,10,28,227
+Waffles,8,11,33,291
+Cereal,2,1,24,110
+Granola,10,20,65,471
+Protein Bar,20,9,45,296
+Energy Drink,0,0,28,110
+Coffee,0.3,0,0,2
+Tea,0,0,1,1
+Orange Juice,1.7,0.5,26,112
+Roti Chapati,3,1,18,100
+Naan,9,5,50,310
+Paratha,6,13,42,320
+Puri,5,14,35,280
+Dosa Plain,2,4,28,168
+Masala Dosa,5,7,40,260
+Idli,2,0.5,8,39
+Vada,3,9,18,167
+Uttapam,4,3,32,180
+Samosa,4,13,32,262
+Pakora,4,10,20,180
+Biryani Chicken,10,8,45,300
+Biryani Veg,4,6,42,240
+Chole Bhature,8,15,55,420
+Pav Bhaji,4,8,35,230
+Paneer Tikka,18,15,6,250
+Butter Chicken,20,18,8,300
+Chicken Tikka,25,8,4,180
+Tandoori Chicken,28,11,2,220
+Dal Makhani,9,8,20,200
+Dal Tadka,8,4,18,150
+Rajma,9,1,22,140
+Chana Masala,8,5,25,170
+Palak Paneer,11,14,8,210
+Paneer Butter Masala,12,16,10,240
+Aloo Gobi,3,6,22,150
+Aloo Paratha,5,10,38,280
+Methi Paratha,6,9,35,260
+Gobi Paratha,5,8,36,250
+Jeera Rice,3,4,45,230
+Pulao,4,6,48,260
+Raita Cucumber,2,2,4,45
+Raita Boondi,3,3,8,70
+Gulab Jamun,3,12,60,387
+Jalebi,2,10,65,400
+Rasmalai,6,8,30,220
+Kheer Rice Pudding,4,5,28,180
+Ladoo Besan,4,12,45,310
+Barfi,6,10,50,320
+Lassi Sweet,3,2,15,95
+Lassi Mango,3,2,20,115
+Lassi Salted,3,2,5,60
+Chai Tea,1,2,8,55
+Coconut Chutney,1,8,6,95
+Mint Chutney,1,2,5,40
+Tamarind Chutney,0.5,1,25,110
+Poha,2,3,23,130
+Upma,3,5,28,180
+Dhokla,3,2,20,120
+Khandvi,4,3,15,105
+Bhel Puri,4,5,30,190
+Pani Puri,3,2,25,140
+Sev Puri,4,6,28,180
+Dahi Puri,4,4,22,150
+Aloo Tikki,3,7,28,190
+Veg Cutlet,5,8,24,190
+Chicken Momos,8,5,20,160
+Veg Momos,4,3,22,130
+Tandoori Roti,3,2,20,110
+Kulcha,5,4,35,210
+Bhatura,5,12,45,330
+Pesarattu,7,2,30,170
+Appam,2,1,25,120
+Puttu,3,1,28,135
+Chicken Curry,18,12,8,220
+Fish Curry,20,10,6,200
+Egg Curry,10,8,6,140
+Mutton Curry,22,18,5,280
+Prawn Curry,24,8,4,180
+Kofta Curry,8,14,12,220
+Kadhi,4,5,10,110
+Sambhar,4,2,18,110
+Rasam,2,1,8,50
+Uttapam Onion,4,4,35,200
+Medu Vada,4,10,20,180
+Rava Dosa,3,5,32,190
+Mysore Masala Dosa,6,9,42,280
+Cheese Dosa,7,11,38,290
+Chicken 65,22,14,10,260
+Gobi 65,4,8,18,160
+Paneer 65,14,12,8,200
+Masala Papad,3,8,15,140
+Roasted Papad,3,2,12,70
+Shrimp,24,0.3,0,99
+Lobster,19,0.9,0,89
+Crab,18,1.3,0,87
+Scallops,20,0.8,3,111
+Oysters,9,2.3,6,68
+Catfish,16,2.8,0,95
+Cod,18,0.7,0,82
+Halibut,19,2.3,0,111
+Sardines,25,11,0,208
+Mackerel,19,14,0,205
+Trout,20,5,0,119
+Venison,30,2.4,0,158
+Duck,19,9.7,0,172
+Quail,22,5.2,0,134
+Bison,24,2,0,143
+Elk,28,1.5,0,146
+Wild Boar,21,3.3,0,122
+Rabbit,21,3.5,0,114
+Goat Meat,27,3,0,143
+Turkey Leg,28,8,0,187
+Chicken Thigh,26,11,0,209
+Chicken Wing,23,16,0,242
+Pork Ribs,16,26,0,315
+Beef Ribs,22,24,0,310
+Lamb Chop,23,19,0,282
+Veal,24,3,0,131
+Liver Chicken,18,5,1,119
+Liver Beef,20,4,4,135
+Kidney Beans Cooked,9,0.5,22,127
+Navy Beans,8,0.6,24,140
+Pinto Beans,9,1,26,143
+Lima Beans,8,0.4,21,115
+Soybeans,17,9,11,173
+Edamame,11,5,10,122
+Tempeh,19,11,9,193
+Seitan,25,2,4,140
+Hummus,8,10,14,166
+Falafel,13,18,32,333
+Tahini,5,18,8,178
+Sunflower Seeds,21,51,20,584
+Pumpkin Seeds,19,49,14,559
+Chia Seeds,17,31,42,486
+Flax Seeds,18,42,29,534
+Hemp Seeds,32,49,8,553
+Sesame Seeds,18,50,23,573
+Cashews,18,44,30,553
+Pistachios,20,45,28,560
+Walnuts,15,65,14,654
+Pecans,9,72,14,691
+Hazelnuts,15,61,17,628
+Macadamia Nuts,8,76,14,718
+Brazil Nuts,14,66,12,656
+Pine Nuts,14,68,13,673
+Peanuts,26,49,16,567
+Almond Butter,21,55,19,614
+Cashew Butter,18,49,27,587
+Sunflower Butter,20,53,18,617
+Acai Berry,2,5,4,70
+Goji Berries,14,0.4,77,349
+Cranberries,0.4,0.1,12,46
+Raspberries,1.2,0.7,12,52
+Blackberries,2,0.5,10,43
+Cherries,1,0.2,16,63
+Peach,0.9,0.3,10,39
+Plum,0.7,0.3,11,46
+Apricot,1.4,0.4,11,48
+Papaya,0.5,0.1,11,43
+Guava,2.6,0.9,14,68
+Kiwi,1.1,0.5,15,61
+Pomegranate,1.7,1.2,19,83
+Dragon Fruit,1.2,0.4,13,60
+Passion Fruit,2.2,0.7,23,97
+Lychee,0.8,0.4,17,66
+Fig,0.8,0.3,19,74
+Dates,2,0.4,75,282
+Prunes,2.2,0.4,64,240
+Raisins,3.1,0.5,79,299
+Cantaloupe,0.8,0.2,8,34
+Honeydew,0.5,0.1,9,36
+Coconut Meat,3.3,33,15,354
+Coconut Milk,2,24,6,230
+Almond Milk,1,2.5,1,17
+Soy Milk,3.3,1.8,4,33
+Oat Milk,1,1.5,7,47
+Rice Milk,0.3,1,9,47
+Buttermilk,3.3,0.9,5,40
+Kefir,3.3,1,5,41
+Whey Protein Powder,80,3,4,363
+Casein Protein Powder,81,1,4,354
+Pea Protein Powder,85,2,2,370
+Rice Protein Powder,80,3,5,368
+Soy Protein Powder,80,4,8,380
+Collagen Powder,90,0,0,360
+Creatine,0,0,0,0
+BCAA Powder,0,0,0,0
+Spirulina,57,7,24,290
+Chlorella,58,9,23,296
+Nutritional Yeast,50,4,36,325
+Wheat Germ,23,9,51,360
+Wheat Bran,16,4,65,216
+Oat Bran,17,7,66,246
+Barley,10,1,73,354
+Bulgur,12,2,76,342
+Couscous,4,0.2,23,112
+Millet,11,4,73,378
+Amaranth,14,7,65,371
+Buckwheat,13,3,72,343
+Spelt,15,2,70,338
+Rye,15,2,76,338
+Farro,15,2,67,340
+Teff,13,2,73,367
+Sorghum,11,3,75,339
+Wild Rice,15,1,35,101
+Jasmine Rice,3,0.4,28,130
+Basmati Rice,3,0.3,28,121
+Arborio Rice,2.7,0.3,28,130
+Black Rice,3,1,34,160
+Red Rice,3,1,34,155
+Forbidden Rice,3,1,34,160
+Sticky Rice,2.7,0.3,28,130
+Cauliflower Rice,2,0.3,5,25
+Zucchini Noodles,1.2,0.3,3,17
+Shirataki Noodles,0.5,0,1,10
+Soba Noodles,6,0.5,24,99
+Udon Noodles,3,0.4,21,99
+Rice Noodles,2,0.3,24,109
+Egg Noodles,5,2,25,138
+Whole Wheat Pasta,7,1,37,174
+Gluten Free Pasta,4,1,26,131
+Chickpea Pasta,14,3,32,190
+Lentil Pasta,13,2,35,200
+Black Bean Pasta,25,2,41,240
+Kelp Noodles,0.2,0,1,6
+Konjac Noodles,0,0,1,5
+Sourdough Bread,8,2,48,250
+Whole Wheat Bread,12,3,43,247
+Rye Bread,9,3,48,259
+Pumpernickel Bread,9,2,48,250
+Ezekiel Bread,8,1,36,160
+Gluten Free Bread,3,2,36,180
+Pita Bread,6,1,33,165
+Tortilla Wheat,5,3,26,146
+Tortilla Corn,2,1,20,96
+Corn Bread,4,6,29,198
+Banana Bread,4,10,33,326
+Zucchini Bread,3,7,27,194
+Carrot Cake,4,21,48,435
+Cheesecake,8,23,26,321
+Brownies,3,12,35,243
+Cookies Chocolate Chip,4,14,36,275
+Cookies Oatmeal,3,8,28,200
+Vanilla Cake,4,15,52,367
+Red Velvet Cake,5,18,54,414
+Tiramisu,6,13,28,240
+Pavlova,2,0.2,58,236
+Macarons,6,14,55,390
+Eclairs,6,16,24,262
+Profiteroles,4,11,18,191
+Churros,4,12,39,288
+Beignets,5,14,35,312
+Apple Pie,2,13,37,296
+Pumpkin Pie,5,13,40,316
+Pecan Pie,5,21,65,503
+Key Lime Pie,6,18,47,362
+Lemon Meringue Pie,4,9,53,303
+Blueberry Pie,2,12,44,290
+Custard,4,6,17,122
+Pudding Chocolate,3,5,24,155
+Flan,6,7,24,180
+Creme Brulee,6,23,22,296
+Panna Cotta,4,23,20,296
+Mousse Chocolate,6,16,25,274
+Souffle,7,11,15,190
+Trifle,5,12,35,270
+Bread Pudding,6,10,40,282
+Rice Pudding Kheer,4,5,28,180
+Tapioca Pudding,2,4,18,121
+Chia Pudding,5,9,22,180
+Fruit Salad,0.8,0.2,16,65
+Coleslaw,1,8,14,150
+Potato Salad,3,10,20,180
+Macaroni Salad,4,12,28,234
+Caesar Salad,9,14,8,184
+Greek Salad,4,8,9,120
+Caprese Salad,11,16,6,220
+Quinoa Salad,6,8,30,220
+Tabbouleh,3,4,16,110
+Fattoush,2,5,18,125
+Nicoise Salad,12,8,10,170
+Cobb Salad,16,24,8,320
+Waldorf Salad,3,14,22,225
+Chicken Salad,12,15,5,210
+Tuna Salad,14,10,4,165
+Egg Salad,8,12,3,155
+Shrimp Salad,18,8,6,170
+Edamame Salad,10,6,14,150
+Bean Salad,7,3,22,145
+Corn Salad,3,2,18,100
